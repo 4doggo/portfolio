@@ -1,3 +1,14 @@
+Number and name of feature: Lab: 04 - RWD Portfolio
+
+Estimate of time needed to complete: 2hrs
+
+Start time: 10:00am
+
+Finish time: 11:31am
+
+Actual time needed to complete: 1.5hrs
+
+
 Prologue by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
