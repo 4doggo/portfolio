@@ -1,3 +1,13 @@
+Number and name of feature: Lab: 05a - Extend Your Portfolio
+
+Estimate of time needed to complete: 2hrs
+
+Start time: 10:10am
+
+Finish time: 12:30am
+
+Actual time needed to complete: 2.5rs
+
 Number and name of feature: Lab: 04 - RWD Portfolio
 
 Estimate of time needed to complete: 2hrs
